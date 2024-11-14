@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "iphonese",
+      "product_name": "iPhone SE",
+      "description_id": 1,
+      "product_brief_description": "Pro cameras. Pro display. Pro performance is smart one",
+      "product_description": "Assembled by China but America",
+      "product_img": "https://www.evangadi.com/courses/MERN-Stack/misc/iphones/i3.JPG",
+      "product_link": "iphone24 url example",
+      "price_id": 1,
+      "starting_price": "$399",
+      "price_range": "From $9.54/mo. or $229 with trade-in."
+    },
+    {
+      "product_id": 2,
+      "product_url": "iphone11",
+      "product_name": "iPhone 11",
+      "description_id": 2,
+      "product_brief_description": "Lots to love. Less to spend.",
+      "product_description": "mmkkk",
+      "product_img": "https://www.lifewire.com/thmb/nBcy55cKfYhz75rSkEUUGHFYMoE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Image031-8c1279df682e44b8ad1494fe7f64298a.jpg",
+      "product_link": "iphone24 url example",
+      "price_id": 2,
+      "starting_price": "$449",
+      "price_range": "From $18.70/mo. or $449 with trade-in."
+    },
+    {
+      "product_id": 3,
+      "product_url": "iPhone11Pro",
+      "product_name": "iPhone 11 Pro",
+      "description_id": 3,
+      "product_brief_description": "Lots to love. Less to spend.",
+      "product_description": "",
+      "product_img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-11-1.jpg",
+      "product_link": "https://support.apple.com/en-in/111879",
+      "price_id": 3,
+      "starting_price": "$679",
+      "price_range": "From $28.29/mo. or $679 with trade-in."
+    }
+  ]
+}
