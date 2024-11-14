@@ -19,7 +19,7 @@ jobs:
       - name: Set up Node.js 20
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: "20"
 
       # Add other steps as needed for your build process
       - name: Install dependencies
@@ -27,8 +27,3 @@ jobs:
 
       - name: Build project
         run: npm run build
-
-
-        git add .github/workflows/deploy.yml
-git commit -m "Update GitHub Actions to use Node.js 20"
-git push
